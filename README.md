@@ -7,6 +7,9 @@ npm install
 
 # Install playwright deps
 npx playwright install-deps
+
+# (Optional) If install deps not working
+npx playwright install
 ```
 
 ## Commands
